@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "name": "Anna",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "2",
+        "name": "Anahit",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "3",
+        "name": "Erik",
+        "email": "E@gmail.com"
+    },
+    {
+        "id": "4",
+        "name": "Vardan",
+        "email": "V@gmail.com"
+    },
+    {
+        "id": "5",
+        "name": "Gor",
+        "email": "G@gmail.com"
+    },
+    {
+        "id": "6",
+        "name": "Robert",
+        "email": "R@gmail.com"
+    },
+    {
+        "id": "7",
+        "name": "Narek",
+        "email": "N@gmail.com"
+    },
+    {
+        "id": "8",
+        "name": "Sargis",
+        "email": "S@gmail.com"
+    },
+    {
+        "id": "9",
+        "name": "Milena",
+        "email": "M@gmail.com"
+    },
+    {
+        "id": "10",
+        "name": "Aram",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "11",
+        "name": "Alla",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "12",
+        "name": "Haykuhi",
+        "email": "H@gmail.com"
+    },
+    {
+        "id": "13",
+        "name": "Arman",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "14",
+        "name": "Karen",
+        "email": "K@gmail.com"
+    },
+    {
+        "id": "15",
+        "name": "Armine",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "16",
+        "name": "Davit",
+        "email": "D@gmail.com"
+    },
+    {
+        "id": "17",
+        "name": "Vahram",
+        "email": "V@gmail.com"
+    },
+    {
+        "id": "18",
+        "name": "Hayk",
+        "email": "H@gmail.com"
+    },
+    {
+        "id": "19",
+        "name": "Ashot",
+        "email": "A@gmail.com"
+    },
+    {
+        "id": "20",
+        "name": "Armen",
+        "email": "A@gmail.com"
+    }
+]

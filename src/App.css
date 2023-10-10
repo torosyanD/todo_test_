@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, "Helvetica-Neue" Helvetica, sans-serif;
+  background-color: rgb(219, 219, 219);
+
+}
+
+.form1>input,
+.btn11 {
+  display: flex;
+  background-color: rgb(238, 238, 238);
+  border-radius: 6px;
+  width: 200px;
+  height: 30px;
+  border: 3px solid #cecece;
+
+}
+
+.dv1 {
+  margin-left: 200px;
+  width: min(90%, 1000px);
+  margin-inline: auto;
+  height: 300px;
+  display: inline-block;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+}
+
+
+
+@media screen and (max-width:768px) {
+
+
+  .ddd1>div {
+    width: clamp(300px, 50%, 500px);
+    height: 300px;
+    font-size: 50px;
+    margin-inline: auto;
+
+  }
+
+  h1 {
+    font-size: 100px
+  }
+
+  .btn11 {
+    width: 330px;
+    height: 80px
+  }
+
+  input {
+    width: 30px;
+    height: 70px;
+  }
+
+  .dv1>.ddd1>.form1>.inp11 {
+    width: 350px;
+    height: 80px;
+  }
+
+}
+
+@media screen and (max-width:1024px) {
+
+
+  .ddd1>div {
+    width: 100%;
+    height: 500px;
+    font-size: 50px;
+    margin-inline: auto;
+
+  }
+
+  h1 {
+    font-size: 100px
+  }
+
+  .btn11 {
+    display: flex;
+    width: 360px;
+    height: 90px;
+  }
+
+  input {
+    width: 40px;
+    height: 80px;
+  }
+
+  .dv1>.ddd1>.form1>.inp11 {
+    width: 450px;
+    height: 90px;
+  }
+
+}
+
+@media screen and (max-width:320px) {
+
+
+  .ddd1>div {
+    width: 100%;
+    height: 400px;
+    font-size: 50px;
+    margin-inline: auto;
+
+  }
+
+  h1 {
+    font-size: 150px
+  }
+
+  .btn11 {
+    width: 430px;
+    height: 100px;
+  }
+
+  input {
+    width: 40px;
+    height: 100px;
+  }
+
+  .dv1>.ddd1>.form1>.inp11 {
+    width: 450px;
+    height: 150px;
+  }
+
+}
